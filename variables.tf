@@ -7,5 +7,5 @@ variable "storage_account_name" {
 variable "resource_group_name" {
   description = "The name of the resource group containing storage account"
   type        = string
-  default     = "sbox-devops-dev-rg"
+  default     = "sbox-ha1-dev-rg"
 }
